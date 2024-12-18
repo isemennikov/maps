@@ -5,6 +5,9 @@ markmap:
 ---
 
 ## WEB
+### CSP
+- [CRLF-inject](https://xakep.ru/2013/12/23/61798/)
+- [Missconfig](https://timcore.ru/2024/11/01/50-bug-bounty-v-2-content-security-policy-csp-obhod-csp/)
 ### SOP
 - [DNS Rebinding](https://github.com/mpgn/ByP-SOP)
 - [Server-Side Proxy](https://www.oreilly.com/library/view/programming-social-applications/9781449302481/apas04s02.html)
